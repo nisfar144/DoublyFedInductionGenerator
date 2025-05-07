@@ -1,1 +1,2 @@
 # DoublyFedInductionGenerator
+Group 6
